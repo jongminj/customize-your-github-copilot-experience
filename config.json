@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "file-io",
+      "title": "Reading and Writing JSON Files",
+      "description": "Practice reading and writing structured data with Python's built-in json module.",
+      "path": "assignments/file-io",
+      "dueDate": "2026-10-07",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Reading Log",
+          "file": "reading_log.json",
+          "type": "json"
+        }
+      ]
     }
   ]
 }
